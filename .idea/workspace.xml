@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92e7aded-1ce7-4456-8aa4-359a5331c123" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aGissTcqXGtJt05BZ8ZfKD7xSh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainApp (1)">
+    <configuration name="MainApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hibernatedemo.MainApp" />
+      <module name="Hibernate_JavaConfiguration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hibernatedemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="util.MainApp" />
+      <module name="Hibernate_JavaConfiguration" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainApp (1)" />
+        <item itemvalue="Application.MainApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92e7aded-1ce7-4456-8aa4-359a5331c123" name="Default Changelist" comment="" />
+      <created>1586368542223</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586368542223</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1536" y="-200" key="#com.intellij.ide.util.MemberChooser" timestamp="1586378147496">
+      <screen x="-2560" y="-311" width="2560" height="1057" />
+    </state>
+    <state x="-1536" y="-200" key="#com.intellij.ide.util.MemberChooser/-2560.-311.2560.1057/0.23.1680.1027@-2560.-311.2560.1057" timestamp="1586378147496" />
+    <state x="-1573" y="-86" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586369768573">
+      <screen x="-2560" y="-311" width="2560" height="1057" />
+    </state>
+    <state x="-1573" y="-86" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-2560.-311.2560.1057/0.23.1680.1027@-2560.-311.2560.1057" timestamp="1586369768573" />
+    <state x="-2020" y="123" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586374561518">
+      <screen x="-2560" y="-311" width="2560" height="1057" />
+    </state>
+    <state x="-2020" y="123" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/-2560.-311.2560.1057/0.23.1680.1027@-2560.-311.2560.1057" timestamp="1586374561518" />
+    <state x="-1647" y="61" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1586374563111">
+      <screen x="-2560" y="-311" width="2560" height="1057" />
+    </state>
+    <state x="-1647" y="61" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/-2560.-311.2560.1057/0.23.1680.1027@-2560.-311.2560.1057" timestamp="1586374563111" />
+    <state width="1832" height="477" key="GridCell.Tab.0.bottom" timestamp="1586379395847">
+      <screen x="-2560" y="-311" width="2560" height="1057" />
+    </state>
+    <state width="1832" height="477" key="GridCell.Tab.0.bottom/-2560.-311.2560.1057/0.23.1680.1027@-2560.-311.2560.1057" timestamp="1586379395847" />
+    <state width="1832" height="477" key="GridCell.Tab.0.center" timestamp="1586379395846">
+      <screen x="-2560" y="-311" width="2560" height="1057" />
+    </state>
+    <state width="1832" height="477" key="GridCell.Tab.0.center/-2560.-311.2560.1057/0.23.1680.1027@-2560.-311.2560.1057" timestamp="1586379395846" />
+    <state width="1832" height="477" key="GridCell.Tab.0.left" timestamp="1586379395846">
+      <screen x="-2560" y="-311" width="2560" height="1057" />
+    </state>
+    <state width="1832" height="477" key="GridCell.Tab.0.left/-2560.-311.2560.1057/0.23.1680.1027@-2560.-311.2560.1057" timestamp="1586379395846" />
+    <state width="1832" height="477" key="GridCell.Tab.0.right" timestamp="1586379395847">
+      <screen x="-2560" y="-311" width="2560" height="1057" />
+    </state>
+    <state width="1832" height="477" key="GridCell.Tab.0.right/-2560.-311.2560.1057/0.23.1680.1027@-2560.-311.2560.1057" timestamp="1586379395847" />
+    <state x="-1714" y="-44" key="com.intellij.ide.util.TipDialog" timestamp="1586369785995">
+      <screen x="-2560" y="-311" width="2560" height="1057" />
+    </state>
+    <state x="-1714" y="-44" key="com.intellij.ide.util.TipDialog/-2560.-311.2560.1057/0.23.1680.1027@-2560.-311.2560.1057" timestamp="1586369785995" />
+  </component>
+</project>
