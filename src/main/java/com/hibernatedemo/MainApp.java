@@ -18,6 +18,19 @@ public class MainApp {
       session = HibernateUtil.getSessionFactory().openSession();
       transaction = session.beginTransaction();
 
+      Comments commentOne = new Comments();
+      commentOne.setTitle("Java Title");
+      commentOne.setText("Java comment text");
+
+      Comments commentTwo = new Comments();
+      commentTwo.setTitle("Hibernate Title");
+      commentTwo.setText("Hibernate comment text");
+
+      Post postOne = new Post();
+      postOne.setPostName("Java Post");
+      postOne.getCommentsList().add(commentOne);
+      postOne.getCommentsList().add(commentTwo);
+
       Address addressOne = new Address();
       addressOne.setCity("Falls Church");
       addressOne.setState("VA");
@@ -38,6 +51,7 @@ public class MainApp {
       employeeTwo.setDesiganation("Project Manager");
       employeeTwo.setDepartment(departmentOne);
 
+      session.save(postOne);
       session.save(departmentOne);
       session.save(employeeOne);
       session.save(employeeTwo);
@@ -49,6 +63,7 @@ public class MainApp {
     } catch (Exception e) {
       if (transaction != null) {
         LOGGER.error("Transaction is being rolled back");
+        e.printStackTrace();
         transaction.rollback();
       }
     } finally {

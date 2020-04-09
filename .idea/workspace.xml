@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e7aded-1ce7-4456-8aa4-359a5331c123" name="Default Changelist" comment="" />
+    <list default="true" id="92e7aded-1ce7-4456-8aa4-359a5331c123" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernatedemo/model/Comments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hibernatedemo/model/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/app-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/logs/app-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hibernatedemo/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hibernatedemo/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hibernatedemo/util/HibernateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hibernatedemo/util/HibernateUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hibernatedemo/MainApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hibernatedemo/MainApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/hibernatedemo/util/HibernateUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hibernatedemo/util/HibernateUtil.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +39,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1aGissTcqXGtJt05BZ8ZfKD7xSh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -37,6 +49,7 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="add_unversioned_files" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -92,11 +105,14 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="-1536" y="-200" key="#com.intellij.ide.util.MemberChooser" timestamp="1586378147496">
+    <state x="-1536" y="-200" key="#com.intellij.ide.util.MemberChooser" timestamp="1586455949269">
       <screen x="-2560" y="-311" width="2560" height="1057" />
     </state>
-    <state x="-1536" y="-200" key="#com.intellij.ide.util.MemberChooser/-2560.-311.2560.1057/0.23.1680.1027@-2560.-311.2560.1057" timestamp="1586378147496" />
+    <state x="-1536" y="-200" key="#com.intellij.ide.util.MemberChooser/-2560.-311.2560.1057/0.23.1680.1027@-2560.-311.2560.1057" timestamp="1586455949269" />
     <state x="-1573" y="-86" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586369768573">
       <screen x="-2560" y="-311" width="2560" height="1057" />
     </state>
@@ -109,25 +125,25 @@
       <screen x="-2560" y="-311" width="2560" height="1057" />
     </state>
     <state x="-1647" y="61" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/-2560.-311.2560.1057/0.23.1680.1027@-2560.-311.2560.1057" timestamp="1586374563111" />
-    <state width="1832" height="477" key="GridCell.Tab.0.bottom" timestamp="1586379395847">
+    <state width="1832" height="477" key="GridCell.Tab.0.bottom" timestamp="1586459619525">
       <screen x="-2560" y="-311" width="2560" height="1057" />
     </state>
-    <state width="1832" height="477" key="GridCell.Tab.0.bottom/-2560.-311.2560.1057/0.23.1680.1027@-2560.-311.2560.1057" timestamp="1586379395847" />
-    <state width="1832" height="477" key="GridCell.Tab.0.center" timestamp="1586379395846">
+    <state width="1832" height="477" key="GridCell.Tab.0.bottom/-2560.-311.2560.1057/0.23.1680.1027@-2560.-311.2560.1057" timestamp="1586459619525" />
+    <state width="1832" height="477" key="GridCell.Tab.0.center" timestamp="1586459619524">
       <screen x="-2560" y="-311" width="2560" height="1057" />
     </state>
-    <state width="1832" height="477" key="GridCell.Tab.0.center/-2560.-311.2560.1057/0.23.1680.1027@-2560.-311.2560.1057" timestamp="1586379395846" />
-    <state width="1832" height="477" key="GridCell.Tab.0.left" timestamp="1586379395846">
+    <state width="1832" height="477" key="GridCell.Tab.0.center/-2560.-311.2560.1057/0.23.1680.1027@-2560.-311.2560.1057" timestamp="1586459619524" />
+    <state width="1832" height="477" key="GridCell.Tab.0.left" timestamp="1586459619524">
       <screen x="-2560" y="-311" width="2560" height="1057" />
     </state>
-    <state width="1832" height="477" key="GridCell.Tab.0.left/-2560.-311.2560.1057/0.23.1680.1027@-2560.-311.2560.1057" timestamp="1586379395846" />
-    <state width="1832" height="477" key="GridCell.Tab.0.right" timestamp="1586379395847">
+    <state width="1832" height="477" key="GridCell.Tab.0.left/-2560.-311.2560.1057/0.23.1680.1027@-2560.-311.2560.1057" timestamp="1586459619523" />
+    <state width="1832" height="477" key="GridCell.Tab.0.right" timestamp="1586459619524">
       <screen x="-2560" y="-311" width="2560" height="1057" />
     </state>
-    <state width="1832" height="477" key="GridCell.Tab.0.right/-2560.-311.2560.1057/0.23.1680.1027@-2560.-311.2560.1057" timestamp="1586379395847" />
-    <state x="-1714" y="-44" key="com.intellij.ide.util.TipDialog" timestamp="1586369785995">
+    <state width="1832" height="477" key="GridCell.Tab.0.right/-2560.-311.2560.1057/0.23.1680.1027@-2560.-311.2560.1057" timestamp="1586459619524" />
+    <state x="-1714" y="-44" key="com.intellij.ide.util.TipDialog" timestamp="1586453988159">
       <screen x="-2560" y="-311" width="2560" height="1057" />
     </state>
-    <state x="-1714" y="-44" key="com.intellij.ide.util.TipDialog/-2560.-311.2560.1057/0.23.1680.1027@-2560.-311.2560.1057" timestamp="1586369785995" />
+    <state x="-1714" y="-44" key="com.intellij.ide.util.TipDialog/-2560.-311.2560.1057/0.23.1680.1027@-2560.-311.2560.1057" timestamp="1586453988159" />
   </component>
 </project>

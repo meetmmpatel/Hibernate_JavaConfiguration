@@ -1,8 +1,6 @@
 package com.hibernatedemo.util;
 
-import com.hibernatedemo.model.Address;
-import com.hibernatedemo.model.Department;
-import com.hibernatedemo.model.Employee;
+import com.hibernatedemo.model.*;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.hibernate.SessionFactory;
@@ -41,7 +39,10 @@ public class HibernateUtil {
             new MetadataSources(registry)
                 .addAnnotatedClass(Address.class)
                 .addAnnotatedClass(Department.class)
-                .addAnnotatedClass(Employee.class);
+                .addAnnotatedClass(Employee.class)
+                .addAnnotatedClass(Post.class)
+                .addAnnotatedClass(Comments.class);
+
         Metadata metadata = sources.getMetadataBuilder().build();
 
         sessionFactory = metadata.getSessionFactoryBuilder().build();
@@ -61,6 +62,7 @@ public class HibernateUtil {
 
   public static void shutdown() {
     if (registry != null) {
+      LOGGER.info("This is HibernateUtil shutdown method");
       StandardServiceRegistryBuilder.destroy(registry);
     }
   }
